@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab41e848-a3c4-4fc2-86b2-f77401e540f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/08 - Algoritmi di decisione su Alberi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ClassificaASD2023 - Consegna 5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ProgettoASD2023.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/AlphabetCXPlayer/AlphabetCXPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/AlphabetCXPlayer/AlphabetCXPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXBoardPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXBoardPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXCellState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXCellState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXGameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXGameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXInputPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXInputPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/CXPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/CXPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/L0/L0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/L0/L0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/L1/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/connectx/L1/L1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/L2/L2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/Connect4/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/Connect4/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/MCTS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/MCTree/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/MCTree/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/MCTreeCopy/NodeCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/MCTreeCopy/TreeCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/MonteCarloSearchTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/StateCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/UCT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTS/UCTCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MCTSPlayer/MonteCarloCXPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectX1/src/connectx/MyPlayer/MyPlayer.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eEXlKetAyoacuX6uQluPoWtZkK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "D:/prjv/CXGame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\prjv\CXGame" />
+      <recent name="D:\prjv\CXGame\docs" />
+      <recent name="D:\prjv\CXGame\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\prjv\CXGame\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab41e848-a3c4-4fc2-86b2-f77401e540f7" name="Changes" comment="" />
+      <created>1711470876463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711470876463</updated>
+      <workItem from="1711470884394" duration="68000" />
+      <workItem from="1711471010932" duration="2279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
